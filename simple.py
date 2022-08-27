@@ -3,7 +3,8 @@ class login:
         self.id="admin"
         self.pas="admin"
 
-    def check(id,pas):
+    def checkrjneshmgv
+    (id,pas):
         print self.id
         print lod.id
         if(self.id==log.id and self.pas==log.pas):
